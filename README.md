@@ -23,7 +23,7 @@ It does two things:
 This is a [Claude Code](https://claude.com/claude-code) skill. Clone it straight into your skills folder:
 
 ```bash
-git clone https://github.com/mattfranksevenofnine/ai-your-way ~/.claude/skills/ai-your-way
+git clone https://github.com/mf-cdr-jameson/ai-your-way ~/.claude/skills/ai-your-way
 ```
 
 Then in Claude Code just say something like *"AI feels overwhelming, I have ADHD — help"* or *"set up my AI working style"*, and the skill will run.
